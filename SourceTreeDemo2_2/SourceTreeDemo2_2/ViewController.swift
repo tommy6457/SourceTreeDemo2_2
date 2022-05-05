@@ -8,6 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    var signUp = "註冊功能"
 
     override func viewDidLoad() {
         super.viewDidLoad()
