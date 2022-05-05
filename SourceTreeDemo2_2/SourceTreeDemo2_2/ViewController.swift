@@ -8,11 +8,15 @@
 import UIKit
 
 class ViewController: UIViewController {
+
     var signUp = "註冊功能"
+
+    var logIn = "登入"
+
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        // Do any additional setup  after loading the view.
     }
 
 
